@@ -1,2 +1,2 @@
-# IPL-Analysis
+# IPL-Analysis | PowerBI
 This project is an interactive IPL Analysis Dashboard built using Power BI, covering all IPL seasons from 2008 to 2025. It includes season-wise winner and runner-up with team logos, key KPIs like total 4's, 6's, centuries, and venues, Orange & Purple Cap stats with player images, a complete points table, and a season filter to explore any year. The data was cleaned and transformed using Power Query and DAX measures were used to calculate all KPIs.
